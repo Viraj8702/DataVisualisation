@@ -1,0 +1,18 @@
+Libraries required are listed below:
+
+- import pandas as pd
+- import plotly.express as px
+
+For running the code on google colab, no intallation is required, simply importing these libraries will directly execute the code.
+
+OR
+
+If these libraries are not installed for running the code on applications like Visual Studio Code, then its essential to install these libraries by running the following commands:
+-pip install pandas
+-pip install plotly
+
+Planet.csv file is required to load the CSV file for running the code in Jupiter notebook.
+
+Also, 2 png files are included which contains the image of both the visualisation
+1. (Image of 1st Visualisation) Surface Gravity of each Solar System Planets
+2. (Image of 2nd Visualisation) Mean Orbital Velocity (km/h) of Solar System Planets
