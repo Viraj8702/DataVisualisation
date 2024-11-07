@@ -1,2 +1,2 @@
 # DataVisualisation
-Solary System planet Density visualisation
+Solar System planet Density visualisation
